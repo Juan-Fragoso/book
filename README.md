@@ -12,8 +12,11 @@ create-react-app nombre_de_la_carpeta
 npm --version<br />
 npm cache clean --force
 
-## clone project
-$ git clone  https://github.com/Juan-Fragoso/book <br />
+## copiar carpetas y archivos
+copiar carpetas <br />
+./public <br />
+./src <br />
+
 In the project directory, you can run:
 
 ### `npm start`
