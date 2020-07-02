@@ -1,6 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## download and instal nodejs
+https://nodejs.org/es/download/
 
-## Available Scripts
+## consola 
+npn --version<br />
+npm cache clean --force
+
+## instalar framework react
+npm install -g create-react-app
+
+## crear proyecto 
+create-react-app name_proyect <br />
 
 In the project directory, you can run:
 
