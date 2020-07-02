@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://nodejs.org/es/download/
 
 ## consola 
-npn --version<br />
+npm --version<br />
 npm cache clean --force
 
 ## instalar framework react
