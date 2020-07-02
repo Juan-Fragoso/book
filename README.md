@@ -9,9 +9,6 @@ npm cache clean --force
 ## instalar framework react
 npm install -g create-react-app
 
-## crear proyecto 
-create-react-app name_proyect <br />
-
 ## Escribe git clone, y luego pega la URL que copiaste antes.<br />
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY<br />
 In the project directory, you can run:
