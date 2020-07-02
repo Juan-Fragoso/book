@@ -12,7 +12,7 @@ create-react-app nombre_de_la_carpeta
 npm --version<br />
 npm cache clean --force
 
-## Escribe git clone
+## clone project
 $ git clone  https://github.com/Juan-Fragoso/book <br />
 In the project directory, you can run:
 
