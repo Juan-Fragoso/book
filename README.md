@@ -5,14 +5,14 @@ https://nodejs.org/es/download/
 ## instalar framework react
 npm install -g create-react-app
 
-##crear proyecto react
+## crear proyecto react
 create-react-app nombre_de_la_carpeta
 
 ## opcional 
 npm --version<br />
 npm cache clean --force
 
-## Escribe git clone, y luego pega la URL que copiaste antes.<br />
+## Escribe git clone
 $ git clone  https://github.com/Juan-Fragoso/book <br />
 In the project directory, you can run:
 
