@@ -2,12 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## download and install nodejs
 https://nodejs.org/es/download/
 
-## consola 
-npm --version<br />
-npm cache clean --force
-
 ## instalar framework react
 npm install -g create-react-app
+
+##crear proyecto react
+create-react-app nombre_de_la_carpeta
+
+## opcional 
+npm --version<br />
+npm cache clean --force
 
 ## Escribe git clone, y luego pega la URL que copiaste antes.<br />
 $ git clone  https://github.com/Juan-Fragoso/book <br />
