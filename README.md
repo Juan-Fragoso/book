@@ -10,7 +10,7 @@ npm cache clean --force
 npm install -g create-react-app
 
 ## Escribe git clone, y luego pega la URL que copiaste antes.<br />
-$ git clonehttps://github.com/Juan-Fragoso/book <br />
+$ git clone  https://github.com/Juan-Fragoso/book <br />
 In the project directory, you can run:
 
 ### `npm start`
